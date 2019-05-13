@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././Orgraf.h
+vector
+.././vector
+
+/home/ilya/C_practice/Project_2/Orgraf_antipiev/test/tests.cpp
+iostream
+-
+Orgraf.h
+-
+
