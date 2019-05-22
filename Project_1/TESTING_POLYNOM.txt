@@ -1,0 +1,109 @@
+/home/ilya/C_practice/c_cpp_practice/Project_1/cmake-build-debug/Project_1
+Menu:
+	1. Show polynom format
+	2. Show current polynom
+	3. Input polynom
+	4. Calculate at point
+	5. Derivative
+	6. Close program
+
+Choose option: 2
+
++0.000*x^0
+
+Menu:
+	1. Show polynom format
+	2. Show current polynom
+	3. Input polynom
+	4. Calculate at point
+	5. Derivative
+	6. Close program
+
+Choose option: 3
+Existing polynom will be updated!
+Enter polynom in required format (max len = 1000):
+1+2x^2-33*x^3+5x
+Menu:
+	1. Show polynom format
+	2. Show current polynom
+	3. Input polynom
+	4. Calculate at point
+	5. Derivative
+	6. Close program
+
+Choose option: 2
+
++1.000*x^0+2.000*x^2-33.000*x^3+5.000*x^1
+
+Menu:
+	1. Show polynom format
+	2. Show current polynom
+	3. Input polynom
+	4. Calculate at point
+	5. Derivative
+	6. Close program
+
+Choose option: 4
+Input number: 1
+Value at point: -25.000000
+
+Menu:
+	1. Show polynom format
+	2. Show current polynom
+	3. Input polynom
+	4. Calculate at point
+	5. Derivative
+	6. Close program
+
+Choose option: 4
+Input number: -1
+Value at point: 31.000000
+
+Menu:
+	1. Show polynom format
+	2. Show current polynom
+	3. Input polynom
+	4. Calculate at point
+	5. Derivative
+	6. Close program
+
+Choose option: 3
+Existing polynom will be updated!
+Enter polynom in required format (max len = 1000):
+5x^10
+Menu:
+	1. Show polynom format
+	2. Show current polynom
+	3. Input polynom
+	4. Calculate at point
+	5. Derivative
+	6. Close program
+
+Choose option: 2
+
++1.000*x^0+2.000*x^2-33.000*x^3+5.000*x^1+5.000*x^10
+
+Menu:
+	1. Show polynom format
+	2. Show current polynom
+	3. Input polynom
+	4. Calculate at point
+	5. Derivative
+	6. Close program
+
+Choose option: 4
+Input number: 1
+Value at point: -20.000000
+
+Menu:
+	1. Show polynom format
+	2. Show current polynom
+	3. Input polynom
+	4. Calculate at point
+	5. Derivative
+	6. Close program
+
+Choose option: 6
+
+Process finished with exit code 0
+

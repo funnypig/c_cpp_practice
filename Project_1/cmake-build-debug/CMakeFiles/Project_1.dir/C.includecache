@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ilya/C_practice/c_cpp_practice/Project_1/Polynom.h
+
+/home/ilya/C_practice/c_cpp_practice/Project_1/main.c
+stdio.h
+-
+Polynom.h
+/home/ilya/C_practice/c_cpp_practice/Project_1/Polynom.h
+
